@@ -2,3 +2,9 @@ ipykernel
 requests
 pandas
 numpy
+beautifulsoup4
+folium
+matplotlib
+seaborn
+scikit-learn
+prettytable
